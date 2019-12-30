@@ -99,3 +99,7 @@ This project is currently not finished, and a lot of optimizations and new imple
 - [ ] Implementation of a built-in dot file engine for better supplying of the `dot` Graphviz engine.
 
 ### Screenshots
+
+![Automaton Facilities Main Form](https://github.com/theskytalos/automaton-facilities/blob/master/automaton-facilities-prtsc.JPG)
+
+![Automaton Facilities Settings Form](https://github.com/theskytalos/automaton-facilities/blob/master/automaton-facilities-settings-prtsc.jpg)
