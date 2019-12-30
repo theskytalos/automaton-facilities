@@ -129,7 +129,7 @@
             this.jPGToolStripMenuItem,
             this.pNGToolStripMenuItem});
             this.exportarToolStripMenuItem.Name = "exportarToolStripMenuItem";
-            this.exportarToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
+            this.exportarToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
             this.exportarToolStripMenuItem.Text = "Exportar Autômato";
             // 
             // jPGToolStripMenuItem
@@ -153,27 +153,27 @@
             this.tmsiMultipleEntry,
             this.testePassoaPassoToolStripMenuItem});
             this.testeToolStripMenuItem.Name = "testeToolStripMenuItem";
-            this.testeToolStripMenuItem.Size = new System.Drawing.Size(46, 20);
+            this.testeToolStripMenuItem.Size = new System.Drawing.Size(45, 20);
             this.testeToolStripMenuItem.Text = "Teste";
             // 
             // tmsiUnitEntry
             // 
             this.tmsiUnitEntry.Name = "tmsiUnitEntry";
-            this.tmsiUnitEntry.Size = new System.Drawing.Size(180, 22);
+            this.tmsiUnitEntry.Size = new System.Drawing.Size(179, 22);
             this.tmsiUnitEntry.Text = "Entrada Unitária";
             this.tmsiUnitEntry.Click += new System.EventHandler(this.tmsiUnitEntry_Click);
             // 
             // tmsiMultipleEntry
             // 
             this.tmsiMultipleEntry.Name = "tmsiMultipleEntry";
-            this.tmsiMultipleEntry.Size = new System.Drawing.Size(180, 22);
+            this.tmsiMultipleEntry.Size = new System.Drawing.Size(179, 22);
             this.tmsiMultipleEntry.Text = "Entradas Múltiplas";
             this.tmsiMultipleEntry.Click += new System.EventHandler(this.tmsiMultipleEntry_Click);
             // 
             // testePassoaPassoToolStripMenuItem
             // 
             this.testePassoaPassoToolStripMenuItem.Name = "testePassoaPassoToolStripMenuItem";
-            this.testePassoaPassoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.testePassoaPassoToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.testePassoaPassoToolStripMenuItem.Text = "Teste Passo-a-Passo";
             this.testePassoaPassoToolStripMenuItem.Click += new System.EventHandler(this.testePassoaPassoToolStripMenuItem_Click);
             // 
@@ -323,7 +323,7 @@
             this.lblAutomatonSpecs.Name = "lblAutomatonSpecs";
             this.lblAutomatonSpecs.Size = new System.Drawing.Size(529, 29);
             this.lblAutomatonSpecs.TabIndex = 6;
-            this.lblAutomatonSpecs.Text = "Specificações do Autômato: Não Carregado";
+            this.lblAutomatonSpecs.Text = "Especificações do Autômato: Não Carregado";
             this.lblAutomatonSpecs.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // frmMain
